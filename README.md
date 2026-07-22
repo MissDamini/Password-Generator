@@ -7,6 +7,5 @@
 ## Technologies Used
 - Python 3
 
-## How to Run 
-
-'''bash python password_generator.py
+## Author
+-MissDamini
